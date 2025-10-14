@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -78,14 +77,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
@@ -93,14 +89,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   importFileNodeState: 1
   platformSettingsDirtyTick: 0
   textureAssetName: 
@@ -110,7 +103,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,19 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: Sheep_Frame_0
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 420
       width: 45
       height: 44
-    spriteID: a9bfc1daefcc27f44979148343860f2b
+    spriteID: 5c064412a99a5e84480cc1749e04a99d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,19 +139,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 420}
-  - name: Frame_1
+  - name: Sheep_Frame_1
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 59
       y: 4
       width: 45
       height: 44
-    spriteID: 4ae34e798afb7e640a2ee7eecbb5fa7b
+    spriteID: f3dde3eed34700d4fb31caea96b72f70
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -169,19 +159,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 59, y: 4}
-  - name: Frame_2
+  - name: Sheep_Frame_2
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 59
       y: 56
       width: 45
       height: 44
-    spriteID: 8e1d8267083b99844a5ecc22b5920b7f
+    spriteID: f9044624b7b80b942bbca0738f5b05b3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,19 +179,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 59, y: 56}
-  - name: Frame_3
+  - name: Sheep_Frame_3
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 59
       y: 108
       width: 45
       height: 44
-    spriteID: 32a6af304acf4ef44a6dfbe47d560c6b
+    spriteID: be0c3e69379116145813bc476785ac24
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -211,19 +199,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 59, y: 108}
-  - name: Frame_4
+  - name: Sheep_Frame_4
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 59
       y: 160
       width: 45
       height: 44
-    spriteID: 695324cf3dadc524c9d4609b70e56561
+    spriteID: 4573f2945383fba499445c1e973b8336
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,19 +219,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 59, y: 160}
-  - name: Frame_5
+  - name: Sheep_Frame_5
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 59
       y: 212
       width: 45
       height: 44
-    spriteID: fef6ea8537aca0149af5cbe98d447e58
+    spriteID: e95eb5d294b311745ab0eb1704257ec4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,19 +239,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 59, y: 212}
-  - name: Frame_6
+  - name: Sheep_Frame_6
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 59
       y: 264
       width: 45
       height: 44
-    spriteID: bac2b73da682023488cdbd312fcecdb4
+    spriteID: 3c80907400dfdab499edf357633c35b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -274,19 +259,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 59, y: 264}
-  - name: Frame_7
+  - name: Sheep_Frame_7
     originalName: 
     pivot: {x: 0.5217391, y: -1.0476191}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 112
       y: 4
       width: 46
       height: 42
-    spriteID: 83de3e148996dd24eb6a6690d3ceddd9
+    spriteID: 86d5b53ad2d6f2e4ea7759e363c3e19c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -295,19 +279,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 4}
-  - name: Frame_8
+  - name: Sheep_Frame_8
     originalName: 
     pivot: {x: 0.48936167, y: -1.0232558}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 165
       width: 47
       height: 43
-    spriteID: 0143292f14cdb4546be559cbc5c2707d
+    spriteID: cdbb40b6bc0cf084b9d562ae39633009
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -316,19 +299,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 165}
-  - name: Frame_9
+  - name: Sheep_Frame_9
     originalName: 
     pivot: {x: 0.5217391, y: -1.0476191}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 112
       y: 54
       width: 46
       height: 42
-    spriteID: 4e7399a85dac35b4e854a48248cae3e7
+    spriteID: 9430baff7003d06458f80196bb9f1f29
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -337,19 +319,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 54}
-  - name: Frame_10
+  - name: Sheep_Frame_10
     originalName: 
     pivot: {x: 0.48936167, y: -1.0232558}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 216
       width: 47
       height: 43
-    spriteID: 4b9bbf890708eeb4c89c46e7a60ec661
+    spriteID: 34f19d5d05c2d2742b701ea91e8ef53b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -358,19 +339,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 216}
-  - name: Frame_11
+  - name: Sheep_Frame_11
     originalName: 
     pivot: {x: 0.5217391, y: -1.0476191}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 112
       y: 104
       width: 46
       height: 42
-    spriteID: 2a8667e2cae5eeb4984dd9166bd1226f
+    spriteID: 251cffae7a53f8644adf34f9354ef0e5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -379,19 +359,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 104}
-  - name: Frame_12
+  - name: Sheep_Frame_12
     originalName: 
     pivot: {x: 0.48936167, y: -1.0232558}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 267
       width: 47
       height: 43
-    spriteID: ecfc404ce76cb2347855a0231ea778e2
+    spriteID: a531e12b72755414d871eed7b88670ad
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -400,19 +379,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 267}
-  - name: Frame_13
+  - name: Sheep_Frame_13
     originalName: 
     pivot: {x: 0.5217391, y: -1.0476191}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 112
       y: 154
       width: 46
       height: 42
-    spriteID: 6ed4862c532eb2c4280e8321bc54f9b4
+    spriteID: b35e67019a7ba994cabc8cc18de15481
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,19 +399,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 154}
-  - name: Frame_14
+  - name: Sheep_Frame_14
     originalName: 
     pivot: {x: 0.48936167, y: -1.0232558}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 318
       width: 47
       height: 43
-    spriteID: f74309c54189c94459dfb7e014ce7777
+    spriteID: a17c027bd3ccfdd438384d2c76a233b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -442,19 +419,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 318}
-  - name: Frame_15
+  - name: Sheep_Frame_15
     originalName: 
     pivot: {x: 0.5217391, y: -1.0476191}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 112
       y: 204
       width: 46
       height: 42
-    spriteID: 8b86248f797128d48ba7a736d3d48f96
+    spriteID: c031844f0cb53aa42bc20b28786a3f7d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -463,19 +439,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 204}
-  - name: Frame_16
+  - name: Sheep_Frame_16
     originalName: 
     pivot: {x: 0.48936167, y: -1.0232558}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 369
       width: 47
       height: 43
-    spriteID: a2b0befa6cdd19e43a3f16df80d1204f
+    spriteID: be59e50ef83f9e242810b37e3859727a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -484,19 +459,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 369}
-  - name: Frame_17
+  - name: Sheep_Frame_17
     originalName: 
     pivot: {x: 0.51111114, y: -1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 59
       y: 316
       width: 45
       height: 44
-    spriteID: d508cb1a4cf5fee41862066772fcb8c8
+    spriteID: fc612f8f1d121e645a07b2267b222d46
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -505,19 +479,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 59, y: 316}
-  - name: Frame_18
+  - name: Sheep_Frame_18
     originalName: 
     pivot: {x: 0.5217391, y: -0.9777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 112
       width: 46
       height: 45
-    spriteID: 416fc37fcf352754280990bd0eeb4695
+    spriteID: 671839f189b124a45b84f6608e3ca050
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -526,19 +499,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 112}
-  - name: Frame_19
+  - name: Sheep_Frame_19
     originalName: 
     pivot: {x: 0.4468085, y: -0.93617016}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 4
       width: 47
       height: 47
-    spriteID: 0b2136cb6d280494ca4c9a0b2de9dd89
+    spriteID: 066f584b12d795b4d8bba4f643bcec56
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -547,19 +519,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_20
+  - name: Sheep_Frame_20
     originalName: 
     pivot: {x: 0.48936167, y: -0.9777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 59
       width: 47
       height: 45
-    spriteID: c1c9f8ed691433d4bb1c99085366c791
+    spriteID: a9bdf6017b346e546b48f61aec4dad6c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -568,19 +539,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 59}
-  - name: Frame_21
+  - name: Sheep_Frame_21
     originalName: 
     pivot: {x: 0.5531915, y: -1.1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 166
       y: 4
       width: 47
       height: 40
-    spriteID: 572991c90afa98344bfdbf2b5fcb72fa
+    spriteID: b8513aa2ecdf63f42a26596793e01fd3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -590,226 +560,193 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 166, y: 4}
   spriteSheetImportData: []
-  tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3503961451
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
+    guid: -496707857
     name: Sheep
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Sheep_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: a9bfc1daefcc27f44979148343860f2b
-    - name: Frame_1
+      spriteId: 5c064412a99a5e84480cc1749e04a99d
+    - name: Sheep_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: 4ae34e798afb7e640a2ee7eecbb5fa7b
-    - name: Frame_2
+      spriteId: f3dde3eed34700d4fb31caea96b72f70
+    - name: Sheep_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: 8e1d8267083b99844a5ecc22b5920b7f
-    - name: Frame_3
+      spriteId: f9044624b7b80b942bbca0738f5b05b3
+    - name: Sheep_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: 32a6af304acf4ef44a6dfbe47d560c6b
-    - name: Frame_4
+      spriteId: be0c3e69379116145813bc476785ac24
+    - name: Sheep_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: 695324cf3dadc524c9d4609b70e56561
-    - name: Frame_5
+      spriteId: 4573f2945383fba499445c1e973b8336
+    - name: Sheep_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: fef6ea8537aca0149af5cbe98d447e58
-    - name: Frame_6
+      spriteId: e95eb5d294b311745ab0eb1704257ec4
+    - name: Sheep_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: bac2b73da682023488cdbd312fcecdb4
-    - name: Frame_7
+      spriteId: 3c80907400dfdab499edf357633c35b4
+    - name: Sheep_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 44
         width: 46
         height: 42
-      spriteId: 83de3e148996dd24eb6a6690d3ceddd9
-    - name: Frame_8
+      spriteId: 86d5b53ad2d6f2e4ea7759e363c3e19c
+    - name: Sheep_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 47
         height: 43
-      spriteId: 0143292f14cdb4546be559cbc5c2707d
-    - name: Frame_9
+      spriteId: cdbb40b6bc0cf084b9d562ae39633009
+    - name: Sheep_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 44
         width: 46
         height: 42
-      spriteId: 4e7399a85dac35b4e854a48248cae3e7
-    - name: Frame_10
+      spriteId: 9430baff7003d06458f80196bb9f1f29
+    - name: Sheep_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 47
         height: 43
-      spriteId: 4b9bbf890708eeb4c89c46e7a60ec661
-    - name: Frame_11
+      spriteId: 34f19d5d05c2d2742b701ea91e8ef53b
+    - name: Sheep_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 44
         width: 46
         height: 42
-      spriteId: 2a8667e2cae5eeb4984dd9166bd1226f
-    - name: Frame_12
+      spriteId: 251cffae7a53f8644adf34f9354ef0e5
+    - name: Sheep_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 47
         height: 43
-      spriteId: ecfc404ce76cb2347855a0231ea778e2
-    - name: Frame_13
+      spriteId: a531e12b72755414d871eed7b88670ad
+    - name: Sheep_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 44
         width: 46
         height: 42
-      spriteId: 6ed4862c532eb2c4280e8321bc54f9b4
-    - name: Frame_14
+      spriteId: b35e67019a7ba994cabc8cc18de15481
+    - name: Sheep_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 47
         height: 43
-      spriteId: f74309c54189c94459dfb7e014ce7777
-    - name: Frame_15
+      spriteId: a17c027bd3ccfdd438384d2c76a233b7
+    - name: Sheep_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 44
         width: 46
         height: 42
-      spriteId: 8b86248f797128d48ba7a736d3d48f96
-    - name: Frame_16
+      spriteId: c031844f0cb53aa42bc20b28786a3f7d
+    - name: Sheep_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 47
         height: 43
-      spriteId: a2b0befa6cdd19e43a3f16df80d1204f
-    - name: Frame_17
+      spriteId: be59e50ef83f9e242810b37e3859727a
+    - name: Sheep_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 45
         height: 44
-      spriteId: d508cb1a4cf5fee41862066772fcb8c8
-    - name: Frame_18
+      spriteId: fc612f8f1d121e645a07b2267b222d46
+    - name: Sheep_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 44
         width: 46
         height: 45
-      spriteId: 416fc37fcf352754280990bd0eeb4695
-    - name: Frame_19
+      spriteId: 671839f189b124a45b84f6608e3ca050
+    - name: Sheep_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 44
         width: 47
         height: 47
-      spriteId: 0b2136cb6d280494ca4c9a0b2de9dd89
-    - name: Frame_20
+      spriteId: 066f584b12d795b4d8bba4f643bcec56
+    - name: Sheep_Frame_20
       frameIndex: 20
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 44
         width: 47
         height: 45
-      spriteId: c1c9f8ed691433d4bb1c99085366c791
-    - name: Frame_21
+      spriteId: a9bdf6017b346e546b48f61aec4dad6c
+    - name: Sheep_Frame_21
       frameIndex: 21
-      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 44
         width: 47
         height: 40
-      spriteId: 572991c90afa98344bfdbf2b5fcb72fa
+      spriteId: b8513aa2ecdf63f42a26596793e01fd3
     linkedCells: []
-    tileCells: []
-    tileSetIndex: 0
     parentIndex: -1
-  tileSets: []
   platformSettings: []
-  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 128, y: 128}
-  previousTextureSize: {x: 256, y: 512}

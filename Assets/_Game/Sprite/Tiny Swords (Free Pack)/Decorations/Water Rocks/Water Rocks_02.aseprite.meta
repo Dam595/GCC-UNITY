@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -78,14 +77,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
@@ -93,14 +89,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   importFileNodeState: 1
   platformSettingsDirtyTick: 0
   textureAssetName: 
@@ -110,7 +103,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,19 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: Water Rocks_02_Frame_0
     originalName: 
     pivot: {x: 0.34051725, y: -0.31578946}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 351
       width: 232
       height: 38
-    spriteID: 760849de762362148968e7bc7235b47e
+    spriteID: debec0554cdbdb64c9316e0be4a7fcf0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,19 +139,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 351}
-  - name: Frame_1
+  - name: Water Rocks_02_Frame_1
     originalName: 
     pivot: {x: 0.34334764, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 303
       width: 233
       height: 40
-    spriteID: 31bbdea1f7736af4e9a5f680a0ab0c3c
+    spriteID: 9559005d969764b49bfa1d119fc28b7a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -169,19 +159,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 303}
-  - name: Frame_2
+  - name: Water Rocks_02_Frame_2
     originalName: 
     pivot: {x: 0.34468085, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 249
       y: 207
       width: 235
       height: 40
-    spriteID: f0d75ddee549428469f6881570814fe9
+    spriteID: 649bb46ef41575a4cae4b425fb199b2f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,19 +179,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 249, y: 207}
-  - name: Frame_3
+  - name: Water Rocks_02_Frame_3
     originalName: 
     pivot: {x: 0.34468085, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 255
       width: 235
       height: 40
-    spriteID: 787e2f588d87cdc47bd014a06f693168
+    spriteID: 683c49521a7eafa4f8d62b963227a019
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -211,19 +199,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 255}
-  - name: Frame_4
+  - name: Water Rocks_02_Frame_4
     originalName: 
     pivot: {x: 0.34453782, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 254
       y: 159
       width: 238
       height: 40
-    spriteID: b48effab893a50e49b5d1163d06eab6a
+    spriteID: 8a1f031326457034c9e23f00a8706c1a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,19 +219,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 254, y: 159}
-  - name: Frame_5
+  - name: Water Rocks_02_Frame_5
     originalName: 
     pivot: {x: 0.34599155, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 207
       width: 237
       height: 40
-    spriteID: 82aa9fc9c7dcbde4f8104d91de937da4
+    spriteID: 0165b14646c637c499c5569e6fad79c6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,19 +239,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 207}
-  - name: Frame_6
+  - name: Water Rocks_02_Frame_6
     originalName: 
     pivot: {x: 0.34567901, y: -0.1627907}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 259
       y: 57
       width: 243
       height: 43
-    spriteID: 698317a43b6fcbb45b793c994425eddf
+    spriteID: 58038f4db68ee664392dc423bddd156f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -274,19 +259,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 259, y: 57}
-  - name: Frame_7
+  - name: Water Rocks_02_Frame_7
     originalName: 
     pivot: {x: 0.34979424, y: -0.1627907}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 108
       width: 243
       height: 43
-    spriteID: a523fe1e1138a324bb90bf2c83899746
+    spriteID: 9cc9f1bc0aa544840a485e716c57606f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -295,19 +279,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 108}
-  - name: Frame_8
+  - name: Water Rocks_02_Frame_8
     originalName: 
     pivot: {x: 0.35365853, y: -0.11111111}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 4
       width: 246
       height: 45
-    spriteID: a3bf2b235ec75d64bb686d1ec8ee3a95
+    spriteID: 87e1bc7a4313efc46a27cdb9100c8972
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -316,19 +299,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_9
+  - name: Water Rocks_02_Frame_9
     originalName: 
     pivot: {x: 0.35222673, y: -0.1627907}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 258
       y: 4
       width: 247
       height: 43
-    spriteID: 318f2afb5b2c66f409097cd61e24d6a4
+    spriteID: dbf5461a6b7f3564fbb6b6db94fd989f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -337,19 +319,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 258, y: 4}
-  - name: Frame_10
+  - name: Water Rocks_02_Frame_10
     originalName: 
     pivot: {x: 0.35222673, y: -0.1627907}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 57
       width: 247
       height: 43
-    spriteID: b0181aef45a1eb343b21ff8907c3a2bb
+    spriteID: b340ed291346e154282d90c8a87340ef
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -358,19 +339,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 57}
-  - name: Frame_11
+  - name: Water Rocks_02_Frame_11
     originalName: 
     pivot: {x: 0.35222673, y: -0.1904762}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 255
       y: 108
       width: 247
       height: 42
-    spriteID: 1e4cefff6ce831447ad3ab17c4a60436
+    spriteID: 14a41bfc23888cf488c061eec72a3c0c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -379,19 +359,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 255, y: 108}
-  - name: Frame_12
+  - name: Water Rocks_02_Frame_12
     originalName: 
     pivot: {x: 0.33884296, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 159
       width: 242
       height: 40
-    spriteID: 44ec7da4437902143a3295a3b9b2cce9
+    spriteID: c89dab21495096045965ab3709cd8908
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -400,19 +379,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 159}
-  - name: Frame_13
+  - name: Water Rocks_02_Frame_13
     originalName: 
     pivot: {x: 0.3360996, y: -0.2820513}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 247
       y: 255
       width: 241
       height: 39
-    spriteID: 2f136695be29b6a44b86a0505d337caa
+    spriteID: b18cb7ff3538fde4fbf5e2fc91aa19ca
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,19 +399,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 247, y: 255}
-  - name: Frame_14
+  - name: Water Rocks_02_Frame_14
     originalName: 
     pivot: {x: 0.34334764, y: -0.2820513}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 245
       y: 303
       width: 233
       height: 39
-    spriteID: 86604bb94f21f4a4283e5754b2921048
+    spriteID: 075af81c9e3cef54cbd76a412a7cd969
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -442,19 +419,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 245, y: 303}
-  - name: Frame_15
+  - name: Water Rocks_02_Frame_15
     originalName: 
     pivot: {x: 0.34199134, y: -0.3888889}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 244
       y: 351
       width: 231
       height: 36
-    spriteID: 418e1fa375d68544bbc1b205bfb20885
+    spriteID: 94f5c6cc01778454d8e817d57def59a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -464,172 +440,145 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 244, y: 351}
   spriteSheetImportData: []
-  tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3175152654
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
+    guid: 2110185910
     name: Water Rocks_02
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Water Rocks_02_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: -47
         y: 12
         width: 232
         height: 38
-      spriteId: 760849de762362148968e7bc7235b47e
-    - name: Frame_1
+      spriteId: debec0554cdbdb64c9316e0be4a7fcf0
+    - name: Water Rocks_02_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: -48
         y: 10
         width: 233
         height: 40
-      spriteId: 31bbdea1f7736af4e9a5f680a0ab0c3c
-    - name: Frame_2
+      spriteId: 9559005d969764b49bfa1d119fc28b7a
+    - name: Water Rocks_02_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: -49
         y: 10
         width: 235
         height: 40
-      spriteId: f0d75ddee549428469f6881570814fe9
-    - name: Frame_3
+      spriteId: 649bb46ef41575a4cae4b425fb199b2f
+    - name: Water Rocks_02_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: -49
         y: 10
         width: 235
         height: 40
-      spriteId: 787e2f588d87cdc47bd014a06f693168
-    - name: Frame_4
+      spriteId: 683c49521a7eafa4f8d62b963227a019
+    - name: Water Rocks_02_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: -50
         y: 10
         width: 238
         height: 40
-      spriteId: b48effab893a50e49b5d1163d06eab6a
-    - name: Frame_5
+      spriteId: 8a1f031326457034c9e23f00a8706c1a
+    - name: Water Rocks_02_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: -50
         y: 10
         width: 237
         height: 40
-      spriteId: 82aa9fc9c7dcbde4f8104d91de937da4
-    - name: Frame_6
+      spriteId: 0165b14646c637c499c5569e6fad79c6
+    - name: Water Rocks_02_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: -52
         y: 7
         width: 243
         height: 43
-      spriteId: 698317a43b6fcbb45b793c994425eddf
-    - name: Frame_7
+      spriteId: 58038f4db68ee664392dc423bddd156f
+    - name: Water Rocks_02_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: -53
         y: 7
         width: 243
         height: 43
-      spriteId: a523fe1e1138a324bb90bf2c83899746
-    - name: Frame_8
+      spriteId: 9cc9f1bc0aa544840a485e716c57606f
+    - name: Water Rocks_02_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: -55
         y: 5
         width: 246
         height: 45
-      spriteId: a3bf2b235ec75d64bb686d1ec8ee3a95
-    - name: Frame_9
+      spriteId: 87e1bc7a4313efc46a27cdb9100c8972
+    - name: Water Rocks_02_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: -55
         y: 7
         width: 247
         height: 43
-      spriteId: 318f2afb5b2c66f409097cd61e24d6a4
-    - name: Frame_10
+      spriteId: dbf5461a6b7f3564fbb6b6db94fd989f
+    - name: Water Rocks_02_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: -55
         y: 7
         width: 247
         height: 43
-      spriteId: b0181aef45a1eb343b21ff8907c3a2bb
-    - name: Frame_11
+      spriteId: b340ed291346e154282d90c8a87340ef
+    - name: Water Rocks_02_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: -55
         y: 8
         width: 247
         height: 42
-      spriteId: 1e4cefff6ce831447ad3ab17c4a60436
-    - name: Frame_12
+      spriteId: 14a41bfc23888cf488c061eec72a3c0c
+    - name: Water Rocks_02_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: -50
         y: 10
         width: 242
         height: 40
-      spriteId: 44ec7da4437902143a3295a3b9b2cce9
-    - name: Frame_13
+      spriteId: c89dab21495096045965ab3709cd8908
+    - name: Water Rocks_02_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: -49
         y: 11
         width: 241
         height: 39
-      spriteId: 2f136695be29b6a44b86a0505d337caa
-    - name: Frame_14
+      spriteId: b18cb7ff3538fde4fbf5e2fc91aa19ca
+    - name: Water Rocks_02_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: -48
         y: 11
         width: 233
         height: 39
-      spriteId: 86604bb94f21f4a4283e5754b2921048
-    - name: Frame_15
+      spriteId: 075af81c9e3cef54cbd76a412a7cd969
+    - name: Water Rocks_02_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: -47
         y: 14
         width: 231
         height: 36
-      spriteId: 418e1fa375d68544bbc1b205bfb20885
+      spriteId: 94f5c6cc01778454d8e817d57def59a0
     linkedCells: []
-    tileCells: []
-    tileSetIndex: 0
     parentIndex: -1
-  tileSets: []
   platformSettings: []
-  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 64, y: 64}
-  previousTextureSize: {x: 512, y: 512}

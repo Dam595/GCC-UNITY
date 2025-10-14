@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -78,14 +77,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
@@ -93,14 +89,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   importFileNodeState: 1
   platformSettingsDirtyTick: 0
   textureAssetName: 
@@ -110,7 +103,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,19 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: Monk_Frame_0
     originalName: 
     pivot: {x: 0.49999997, y: -0.84057975}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 899
       width: 58
       height: 69
-    spriteID: 86be82128c211434b8c8407c853a2faa
+    spriteID: f7cf2360e32c6b746bcc7b34435218ed
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,19 +139,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 899}
-  - name: Frame_1
+  - name: Monk_Frame_1
     originalName: 
     pivot: {x: 0.49999997, y: -0.8529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 405
       width: 58
       height: 68
-    spriteID: 2e7273814764a7a478f71941d02abc39
+    spriteID: 37da9d88149a1994699f389e458ca4b2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -169,19 +159,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 405}
-  - name: Frame_2
+  - name: Monk_Frame_2
     originalName: 
     pivot: {x: 0.49999997, y: -0.8656717}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 633
       width: 58
       height: 67
-    spriteID: 932221bc709abc947b6f4e1df8376a00
+    spriteID: ba12cdf7cec158e479295dddbbd7a96f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,19 +179,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 633}
-  - name: Frame_3
+  - name: Monk_Frame_3
     originalName: 
     pivot: {x: 0.49999997, y: -0.8656717}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 708
       width: 58
       height: 67
-    spriteID: a1efa17222f36784e96b76ea5f01cd6a
+    spriteID: 976ca69db0299ae44915b2886bcb7466
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -211,19 +199,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 708}
-  - name: Frame_4
+  - name: Monk_Frame_4
     originalName: 
     pivot: {x: 0.49999997, y: -0.8656717}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 783
       width: 58
       height: 67
-    spriteID: f49a3c1ef2c4ba941b8036fd3a3e4fad
+    spriteID: f985e86908345934ab68c203859b5bef
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,19 +219,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 783}
-  - name: Frame_5
+  - name: Monk_Frame_5
     originalName: 
     pivot: {x: 0.49999997, y: -0.8529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 481
       width: 58
       height: 68
-    spriteID: a612ec41e1f1e6b4c976384107d42ee4
+    spriteID: 1f51ecaced4b1ad4fa9dfe2d54a645ed
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,19 +239,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 481}
-  - name: Frame_6
+  - name: Monk_Frame_6
     originalName: 
     pivot: {x: 0.4938272, y: -0.84057975}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 675
       width: 81
       height: 69
-    spriteID: b90d8958fb6e0c84a9d80385c8da29f0
+    spriteID: dd543258d07334a419afc2553892f886
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -274,19 +259,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 675}
-  - name: Frame_7
+  - name: Monk_Frame_7
     originalName: 
     pivot: {x: 0.49999997, y: -0.81690145}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 517
       width: 82
       height: 71
-    spriteID: 18747ac4e90f4734f895d99b3fcd510d
+    spriteID: 117af86bb9d7b324eacbaf8b32e7550d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -295,19 +279,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 517}
-  - name: Frame_8
+  - name: Monk_Frame_8
     originalName: 
     pivot: {x: 0.4938272, y: -0.84057975}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 752
       width: 81
       height: 69
-    spriteID: fd9e5ea8266367f4ba4eed8e1c06d247
+    spriteID: d53453a615f3b7f49bfbcf29163538c4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -316,19 +299,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 752}
-  - name: Frame_9
+  - name: Monk_Frame_9
     originalName: 
     pivot: {x: 0.4878049, y: -0.81690145}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 596
       width: 82
       height: 71
-    spriteID: 2ff1128102c33c1499bab6b9b6129f4d
+    spriteID: 51989f60f21fdff458abd0a240da2742
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -337,19 +319,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 596}
-  - name: Frame_10
+  - name: Monk_Frame_10
     originalName: 
     pivot: {x: 0.49999997, y: -0.8529412}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 557
       width: 58
       height: 68
-    spriteID: c21cc58fd15855f4fa795fab64d6a0ee
+    spriteID: 392d509357580b74f83b63e1cfa12dee
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -358,19 +339,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 557}
-  - name: Frame_11
+  - name: Monk_Frame_11
     originalName: 
     pivot: {x: 0.4861111, y: -0.9354839}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 829
       width: 72
       height: 62
-    spriteID: 40833efe01a527649a0d4fa0af2afa22
+    spriteID: 8c8a010db44b0294290619413558a19c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -379,19 +359,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 829}
-  - name: Frame_12
+  - name: Monk_Frame_12
     originalName: 
     pivot: {x: 0.5049505, y: -0.920635}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 303
       width: 101
       height: 63
-    spriteID: f91a65b4f3dd3b14d88235f64fbfd0b4
+    spriteID: a5128de9b4875ac4b9456923a478b2a2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -400,19 +379,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 303}
-  - name: Frame_13
+  - name: Monk_Frame_13
     originalName: 
     pivot: {x: 0.5045871, y: -0.90625}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 231
       width: 109
       height: 64
-    spriteID: 38ab6f99ebbac144787ea3d3c67f9ce8
+    spriteID: 19dd07f5f954edb4da1a8acbb5f6b4cc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,19 +399,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 231}
-  - name: Frame_14
+  - name: Monk_Frame_14
     originalName: 
     pivot: {x: 0.50427353, y: -0.89230776}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 158
       width: 117
       height: 65
-    spriteID: 0e87b138232811c488f4acae16880af8
+    spriteID: e4e331cf94b77c8438a402bfa808566c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -442,19 +419,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 158}
-  - name: Frame_15
+  - name: Monk_Frame_15
     originalName: 
     pivot: {x: 0.5041322, y: -0.8656717}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 4
       width: 121
       height: 67
-    spriteID: afc9c4bba47a89d48a0b6677da12a854
+    spriteID: e58188aed6773424082ff39fdb0fec19
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -463,19 +439,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 4}
-  - name: Frame_16
+  - name: Monk_Frame_16
     originalName: 
     pivot: {x: 0.5045871, y: -0.81690145}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 79
       width: 109
       height: 71
-    spriteID: f3e04a441c7adc24584f2919f20343d5
+    spriteID: 269380190e3c2844f9d04cec24b1ef36
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -484,19 +459,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 79}
-  - name: Frame_17
+  - name: Monk_Frame_17
     originalName: 
     pivot: {x: 0.51648355, y: -0.81690145}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 326
       width: 91
       height: 71
-    spriteID: a4c794f9c56919d4eb77762ff6012009
+    spriteID: a15b1f8b3d758d347a1a29df7b431cf2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -505,19 +479,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 326}
-  - name: Frame_18
+  - name: Monk_Frame_18
     originalName: 
     pivot: {x: 0.5106383, y: -0.90625}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 374
       width: 94
       height: 64
-    spriteID: 054df82138f14124cb4d777fa9572ba2
+    spriteID: db6de9f095dd60044aa0989620520ddd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -526,19 +499,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 374}
-  - name: Frame_19
+  - name: Monk_Frame_19
     originalName: 
     pivot: {x: 0.5106383, y: -0.920635}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 209
       y: 446
       width: 94
       height: 63
-    spriteID: cb69b14b124aecc49a2a2aab95af830d
+    spriteID: d061debcd94d7e74697fcc20bf1eed36
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -547,19 +519,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 209, y: 446}
-  - name: Frame_20
+  - name: Monk_Frame_20
     originalName: 
     pivot: {x: 0.49999997, y: -0.8656717}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 858
       width: 58
       height: 67
-    spriteID: 9da9dd42a9bf82a46ae82952860bb320
+    spriteID: bf4d6b78ed2b3bd4c852084b78a31a11
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -568,19 +539,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 858}
-  - name: Frame_21
+  - name: Monk_Frame_21
     originalName: 
     pivot: {x: 0.5568181, y: -0.7317073}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 236
       width: 88
       height: 82
-    spriteID: 86e98e83f5c9fcd40846e783b5c46e06
+    spriteID: f2accfa9d0ded834d925a4657c198ace
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -589,19 +559,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 236}
-  - name: Frame_22
+  - name: Monk_Frame_22
     originalName: 
     pivot: {x: 0.5384615, y: -0.43925232}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 4
       width: 91
       height: 107
-    spriteID: 43cd555d54ff5084a80ded2bc021edcc
+    spriteID: 7e0f0e858792aec4ab716fcf88e38e6e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -610,19 +579,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 4}
-  - name: Frame_23
+  - name: Monk_Frame_23
     originalName: 
     pivot: {x: 0.51578945, y: -0.4017094}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 668
       width: 95
       height: 117
-    spriteID: 9ec6bd32536132144ad4fbed0269ef9f
+    spriteID: 1a290d8f4c2d1d74aa711eaf9c8e0515
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -631,19 +599,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 668}
-  - name: Frame_24
+  - name: Monk_Frame_24
     originalName: 
     pivot: {x: 0.5104166, y: -0.38016528}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 539
       width: 96
       height: 121
-    spriteID: 51a634d24e8711a47acd54db28c82391
+    spriteID: 7745e75e4d0dd4f4a9721a615757d21d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -652,19 +619,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 539}
-  - name: Frame_25
+  - name: Monk_Frame_25
     originalName: 
     pivot: {x: 0.5051546, y: -0.37096772}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 276
       width: 97
       height: 124
-    spriteID: b2880d6b36a36b24ca93be4a78489c0c
+    spriteID: 7626c7ee3697b9443b5b4d0651db4fdc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -673,19 +639,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 276}
-  - name: Frame_26
+  - name: Monk_Frame_26
     originalName: 
     pivot: {x: 0.49999997, y: -0.359375}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 4
       width: 98
       height: 128
-    spriteID: c6f804041df47ab4c95e1e4240bd7109
+    spriteID: bfe28a657b7d0e74480954e917289b2d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -694,19 +659,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_27
+  - name: Monk_Frame_27
     originalName: 
     pivot: {x: 0.49999997, y: -0.359375}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 140
       width: 98
       height: 128
-    spriteID: 983ef07e7c91e4c48baec7f0388a86b5
+    spriteID: 3c437b983037c2f4593ab3b22729d7c3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -715,19 +679,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 140}
-  - name: Frame_28
+  - name: Monk_Frame_28
     originalName: 
     pivot: {x: 0.4895833, y: -0.3739837}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 408
       width: 96
       height: 123
-    spriteID: 3964383845e947e42b415c64a55d4e86
+    spriteID: 61c0429f45e68ef4982f730f5d4129a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -736,19 +699,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 408}
-  - name: Frame_29
+  - name: Monk_Frame_29
     originalName: 
     pivot: {x: 0.48421055, y: -0.4122807}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 793
       width: 95
       height: 114
-    spriteID: 999b187878b38e942838f23ea34b1333
+    spriteID: 51e9484fa9414c142aa69376d963ad55
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -757,19 +719,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 793}
-  - name: Frame_30
+  - name: Monk_Frame_30
     originalName: 
     pivot: {x: 0.4302326, y: -0.49541286}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 110
       y: 119
       width: 86
       height: 109
-    spriteID: 835d231881865d24ba11f211bd56387a
+    spriteID: aa8df759535cb084d96a1bc88b83ee84
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -778,19 +739,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 110, y: 119}
-  - name: Frame_31
+  - name: Monk_Frame_31
     originalName: 
     pivot: {x: 0.43529415, y: -0.6907217}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 915
       width: 85
       height: 97
-    spriteID: 84b4aa446e85865479eb82c8e83b48ed
+    spriteID: 681a5a8ab307a494f999beba1a152309
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -800,316 +760,273 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 915}
   spriteSheetImportData: []
-  tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 963907275
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
+    guid: 419098831
     name: Monk
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Monk_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 69
-      spriteId: 86be82128c211434b8c8407c853a2faa
-    - name: Frame_1
+      spriteId: f7cf2360e32c6b746bcc7b34435218ed
+    - name: Monk_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 68
-      spriteId: 2e7273814764a7a478f71941d02abc39
-    - name: Frame_2
+      spriteId: 37da9d88149a1994699f389e458ca4b2
+    - name: Monk_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 67
-      spriteId: 932221bc709abc947b6f4e1df8376a00
-    - name: Frame_3
+      spriteId: ba12cdf7cec158e479295dddbbd7a96f
+    - name: Monk_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 67
-      spriteId: a1efa17222f36784e96b76ea5f01cd6a
-    - name: Frame_4
+      spriteId: 976ca69db0299ae44915b2886bcb7466
+    - name: Monk_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 67
-      spriteId: f49a3c1ef2c4ba941b8036fd3a3e4fad
-    - name: Frame_5
+      spriteId: f985e86908345934ab68c203859b5bef
+    - name: Monk_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 68
-      spriteId: a612ec41e1f1e6b4c976384107d42ee4
-    - name: Frame_6
+      spriteId: 1f51ecaced4b1ad4fa9dfe2d54a645ed
+    - name: Monk_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 58
         width: 81
         height: 69
-      spriteId: b90d8958fb6e0c84a9d80385c8da29f0
-    - name: Frame_7
+      spriteId: dd543258d07334a419afc2553892f886
+    - name: Monk_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 55
         y: 58
         width: 82
         height: 71
-      spriteId: 18747ac4e90f4734f895d99b3fcd510d
-    - name: Frame_8
+      spriteId: 117af86bb9d7b324eacbaf8b32e7550d
+    - name: Monk_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 58
         width: 81
         height: 69
-      spriteId: fd9e5ea8266367f4ba4eed8e1c06d247
-    - name: Frame_9
+      spriteId: d53453a615f3b7f49bfbcf29163538c4
+    - name: Monk_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 58
         width: 82
         height: 71
-      spriteId: 2ff1128102c33c1499bab6b9b6129f4d
-    - name: Frame_10
+      spriteId: 51989f60f21fdff458abd0a240da2742
+    - name: Monk_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 68
-      spriteId: c21cc58fd15855f4fa795fab64d6a0ee
-    - name: Frame_11
+      spriteId: 392d509357580b74f83b63e1cfa12dee
+    - name: Monk_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 61
         y: 58
         width: 72
         height: 62
-      spriteId: 40833efe01a527649a0d4fa0af2afa22
-    - name: Frame_12
+      spriteId: 8c8a010db44b0294290619413558a19c
+    - name: Monk_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 58
         width: 101
         height: 63
-      spriteId: f91a65b4f3dd3b14d88235f64fbfd0b4
-    - name: Frame_13
+      spriteId: a5128de9b4875ac4b9456923a478b2a2
+    - name: Monk_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 58
         width: 109
         height: 64
-      spriteId: 38ab6f99ebbac144787ea3d3c67f9ce8
-    - name: Frame_14
+      spriteId: 19dd07f5f954edb4da1a8acbb5f6b4cc
+    - name: Monk_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 58
         width: 117
         height: 65
-      spriteId: 0e87b138232811c488f4acae16880af8
-    - name: Frame_15
+      spriteId: e4e331cf94b77c8438a402bfa808566c
+    - name: Monk_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 58
         width: 121
         height: 67
-      spriteId: afc9c4bba47a89d48a0b6677da12a854
-    - name: Frame_16
+      spriteId: e58188aed6773424082ff39fdb0fec19
+    - name: Monk_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 58
         width: 109
         height: 71
-      spriteId: f3e04a441c7adc24584f2919f20343d5
-    - name: Frame_17
+      spriteId: 269380190e3c2844f9d04cec24b1ef36
+    - name: Monk_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 49
         y: 58
         width: 91
         height: 71
-      spriteId: a4c794f9c56919d4eb77762ff6012009
-    - name: Frame_18
+      spriteId: a15b1f8b3d758d347a1a29df7b431cf2
+    - name: Monk_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 48
         y: 58
         width: 94
         height: 64
-      spriteId: 054df82138f14124cb4d777fa9572ba2
-    - name: Frame_19
+      spriteId: db6de9f095dd60044aa0989620520ddd
+    - name: Monk_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 48
         y: 58
         width: 94
         height: 63
-      spriteId: cb69b14b124aecc49a2a2aab95af830d
-    - name: Frame_20
+      spriteId: d061debcd94d7e74697fcc20bf1eed36
+    - name: Monk_Frame_20
       frameIndex: 20
-      additiveSortOrder: 0
       cellRect:
         x: 67
         y: 58
         width: 58
         height: 67
-      spriteId: 9da9dd42a9bf82a46ae82952860bb320
-    - name: Frame_21
+      spriteId: bf4d6b78ed2b3bd4c852084b78a31a11
+    - name: Monk_Frame_21
       frameIndex: 21
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 60
         width: 88
         height: 82
-      spriteId: 86e98e83f5c9fcd40846e783b5c46e06
-    - name: Frame_22
+      spriteId: f2accfa9d0ded834d925a4657c198ace
+    - name: Monk_Frame_22
       frameIndex: 22
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 47
         width: 91
         height: 107
-      spriteId: 43cd555d54ff5084a80ded2bc021edcc
-    - name: Frame_23
+      spriteId: 7e0f0e858792aec4ab716fcf88e38e6e
+    - name: Monk_Frame_23
       frameIndex: 23
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 47
         width: 95
         height: 117
-      spriteId: 9ec6bd32536132144ad4fbed0269ef9f
-    - name: Frame_24
+      spriteId: 1a290d8f4c2d1d74aa711eaf9c8e0515
+    - name: Monk_Frame_24
       frameIndex: 24
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 46
         width: 96
         height: 121
-      spriteId: 51a634d24e8711a47acd54db28c82391
-    - name: Frame_25
+      spriteId: 7745e75e4d0dd4f4a9721a615757d21d
+    - name: Monk_Frame_25
       frameIndex: 25
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 46
         width: 97
         height: 124
-      spriteId: b2880d6b36a36b24ca93be4a78489c0c
-    - name: Frame_26
+      spriteId: 7626c7ee3697b9443b5b4d0651db4fdc
+    - name: Monk_Frame_26
       frameIndex: 26
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 46
         width: 98
         height: 128
-      spriteId: c6f804041df47ab4c95e1e4240bd7109
-    - name: Frame_27
+      spriteId: bfe28a657b7d0e74480954e917289b2d
+    - name: Monk_Frame_27
       frameIndex: 27
-      additiveSortOrder: 0
       cellRect:
         x: 47
         y: 46
         width: 98
         height: 128
-      spriteId: 983ef07e7c91e4c48baec7f0388a86b5
-    - name: Frame_28
+      spriteId: 3c437b983037c2f4593ab3b22729d7c3
+    - name: Monk_Frame_28
       frameIndex: 28
-      additiveSortOrder: 0
       cellRect:
         x: 49
         y: 46
         width: 96
         height: 123
-      spriteId: 3964383845e947e42b415c64a55d4e86
-    - name: Frame_29
+      spriteId: 61c0429f45e68ef4982f730f5d4129a5
+    - name: Monk_Frame_29
       frameIndex: 29
-      additiveSortOrder: 0
       cellRect:
         x: 50
         y: 47
         width: 95
         height: 114
-      spriteId: 999b187878b38e942838f23ea34b1333
-    - name: Frame_30
+      spriteId: 51e9484fa9414c142aa69376d963ad55
+    - name: Monk_Frame_30
       frameIndex: 30
-      additiveSortOrder: 0
       cellRect:
         x: 59
         y: 54
         width: 86
         height: 109
-      spriteId: 835d231881865d24ba11f211bd56387a
-    - name: Frame_31
+      spriteId: aa8df759535cb084d96a1bc88b83ee84
+    - name: Monk_Frame_31
       frameIndex: 31
-      additiveSortOrder: 0
       cellRect:
         x: 59
         y: 67
         width: 85
         height: 97
-      spriteId: 84b4aa446e85865479eb82c8e83b48ed
+      spriteId: 681a5a8ab307a494f999beba1a152309
     linkedCells: []
-    tileCells: []
-    tileSetIndex: 0
     parentIndex: -1
-  tileSets: []
   platformSettings: []
-  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 192, y: 192}
-  previousTextureSize: {x: 512, y: 1024}

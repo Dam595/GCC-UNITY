@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -78,14 +77,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
@@ -93,14 +89,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   importFileNodeState: 1
   platformSettingsDirtyTick: 0
   textureAssetName: 
@@ -110,7 +103,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,19 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: Water Foam_Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.5952381}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 387
       width: 84
       height: 84
-    spriteID: ee60de4d80c844b4fbef514f71837f9c
+    spriteID: 03a882651548d39459249fcd43058462
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,19 +139,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 387}
-  - name: Frame_1
+  - name: Water Foam_Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.6144578}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
       y: 194
       width: 84
       height: 83
-    spriteID: 78bdc21bc1f815640a91d213cb2c366c
+    spriteID: d73c88cfc5e366440a5a40525bcff970
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -169,19 +159,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 97, y: 194}
-  - name: Frame_2
+  - name: Water Foam_Frame_2
     originalName: 
     pivot: {x: 0.53846157, y: -0.6753247}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 274
       y: 4
       width: 78
       height: 77
-    spriteID: 870338fbbcab5d44182acff684d746d6
+    spriteID: b07a264bef39e6145a4de8b6b2747c9f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,19 +179,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 274, y: 4}
-  - name: Frame_3
+  - name: Water Foam_Frame_3
     originalName: 
     pivot: {x: 0.4929577, y: -0.68918914}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 191
       y: 351
       width: 71
       height: 74
-    spriteID: d755f38c3586712438c5165fc535e0ad
+    spriteID: 38e69b455c436e44bbbf64e964d9efa3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -211,19 +199,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 191, y: 351}
-  - name: Frame_4
+  - name: Water Foam_Frame_4
     originalName: 
     pivot: {x: 0.51388896, y: -0.6578947}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 191
       y: 267
       width: 72
       height: 76
-    spriteID: 859e2161b79afbf4e8154de41088937e
+    spriteID: a5e4280c486e19c40b4a6139f048612b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,19 +219,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 191, y: 267}
-  - name: Frame_5
+  - name: Water Foam_Frame_5
     originalName: 
     pivot: {x: 0.51388896, y: -0.6282052}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 191
       y: 181
       width: 72
       height: 78
-    spriteID: c5756d1075f778d4890adf959451ae38
+    spriteID: 132712c144df2d6469889c8913dc3542
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,19 +239,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 191, y: 181}
-  - name: Frame_6
+  - name: Water Foam_Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.6}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 191
       y: 93
       width: 72
       height: 80
-    spriteID: 268b3a084b6aafc4fac0b294a3fe016f
+    spriteID: 76269324037833d419aff57d9588e3de
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -274,19 +259,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 191, y: 93}
-  - name: Frame_7
+  - name: Water Foam_Frame_7
     originalName: 
     pivot: {x: 0.49333334, y: -0.6049383}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 191
       y: 4
       width: 75
       height: 81
-    spriteID: 5663af5591549d54680af96bab8199d9
+    spriteID: 3faf996dba505034b9239d194456e9bb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -295,19 +279,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 191, y: 4}
-  - name: Frame_8
+  - name: Water Foam_Frame_8
     originalName: 
     pivot: {x: 0.49350646, y: -0.54761904}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
       y: 378
       width: 77
       height: 84
-    spriteID: 8c9255bbfdcf8294aa0d2cabb9a21dd3
+    spriteID: 0a636765dcb62424080a7ddfbf7f086f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -316,19 +299,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 97, y: 378}
-  - name: Frame_9
+  - name: Water Foam_Frame_9
     originalName: 
     pivot: {x: 0.5063291, y: -0.5411765}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
       y: 285
       width: 79
       height: 85
-    spriteID: eb68c76bd1eb12e4a8ddf038c2c1c191
+    spriteID: a7603221b14bc99468113ae569089b9c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -337,19 +319,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 97, y: 285}
-  - name: Frame_10
+  - name: Water Foam_Frame_10
     originalName: 
     pivot: {x: 0.49999997, y: -0.5232558}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
       y: 100
       width: 82
       height: 86
-    spriteID: 913ab37c788aafc48a1407db6a260a66
+    spriteID: f05080c551e0f6e4e94d22f9ce6d50d5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -358,19 +339,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 97, y: 100}
-  - name: Frame_11
+  - name: Water Foam_Frame_11
     originalName: 
     pivot: {x: 0.50617284, y: -0.48314604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 290
       width: 81
       height: 89
-    spriteID: 33d68164c74282148b11ab1b94d374b8
+    spriteID: 965d2d95f8428d64c89371b9ddcf4f8f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -379,19 +359,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 290}
-  - name: Frame_12
+  - name: Water Foam_Frame_12
     originalName: 
     pivot: {x: 0.5176471, y: -0.47777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 4
       width: 85
       height: 90
-    spriteID: cbf1d1165fb47bc4badfa34b6b3dd668
+    spriteID: 72bf6947b5c4157489b41e5bf9fc62e1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -400,19 +379,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_13
+  - name: Water Foam_Frame_13
     originalName: 
     pivot: {x: 0.5116279, y: -0.5113636}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 97
       y: 4
       width: 86
       height: 88
-    spriteID: 56187c562a0244348a966a077c9338b9
+    spriteID: 9e4526a38e6412e4bb3ea1ffcebd3da4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,19 +399,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 97, y: 4}
-  - name: Frame_14
+  - name: Water Foam_Frame_14
     originalName: 
     pivot: {x: 0.5, y: -0.54651165}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 196
       width: 84
       height: 86
-    spriteID: 90683510610d92f4391ae8e1206b934c
+    spriteID: b39eae8faac5c564da305300bedf3e52
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -442,19 +419,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 196}
-  - name: Frame_15
+  - name: Water Foam_Frame_15
     originalName: 
     pivot: {x: 0.5058824, y: -0.55813956}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 102
       width: 85
       height: 86
-    spriteID: aeee0e1ce320bee489700389da72bc01
+    spriteID: 79e08a0d3e9754142bc175f8aa6af443
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -464,172 +440,145 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 4, y: 102}
   spriteSheetImportData: []
-  tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3061357442
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
+    guid: -116840294
     name: Water Foam
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Water Foam_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 54
         y: 50
         width: 84
         height: 84
-      spriteId: ee60de4d80c844b4fbef514f71837f9c
-    - name: Frame_1
+      spriteId: 03a882651548d39459249fcd43058462
+    - name: Water Foam_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 54
         y: 51
         width: 84
         height: 83
-      spriteId: 78bdc21bc1f815640a91d213cb2c366c
-    - name: Frame_2
+      spriteId: d73c88cfc5e366440a5a40525bcff970
+    - name: Water Foam_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 54
         y: 52
         width: 78
         height: 77
-      spriteId: 870338fbbcab5d44182acff684d746d6
-    - name: Frame_3
+      spriteId: b07a264bef39e6145a4de8b6b2747c9f
+    - name: Water Foam_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 61
         y: 51
         width: 71
         height: 74
-      spriteId: d755f38c3586712438c5165fc535e0ad
-    - name: Frame_4
+      spriteId: 38e69b455c436e44bbbf64e964d9efa3
+    - name: Water Foam_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 59
         y: 50
         width: 72
         height: 76
-      spriteId: 859e2161b79afbf4e8154de41088937e
-    - name: Frame_5
+      spriteId: a5e4280c486e19c40b4a6139f048612b
+    - name: Water Foam_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 59
         y: 49
         width: 72
         height: 78
-      spriteId: c5756d1075f778d4890adf959451ae38
-    - name: Frame_6
+      spriteId: 132712c144df2d6469889c8913dc3542
+    - name: Water Foam_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 60
         y: 48
         width: 72
         height: 80
-      spriteId: 268b3a084b6aafc4fac0b294a3fe016f
-    - name: Frame_7
+      spriteId: 76269324037833d419aff57d9588e3de
+    - name: Water Foam_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 59
         y: 49
         width: 75
         height: 81
-      spriteId: 5663af5591549d54680af96bab8199d9
-    - name: Frame_8
+      spriteId: 3faf996dba505034b9239d194456e9bb
+    - name: Water Foam_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 58
         y: 46
         width: 77
         height: 84
-      spriteId: 8c9255bbfdcf8294aa0d2cabb9a21dd3
-    - name: Frame_9
+      spriteId: 0a636765dcb62424080a7ddfbf7f086f
+    - name: Water Foam_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 46
         width: 79
         height: 85
-      spriteId: eb68c76bd1eb12e4a8ddf038c2c1c191
-    - name: Frame_10
+      spriteId: a7603221b14bc99468113ae569089b9c
+    - name: Water Foam_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 55
         y: 45
         width: 82
         height: 86
-      spriteId: 913ab37c788aafc48a1407db6a260a66
-    - name: Frame_11
+      spriteId: f05080c551e0f6e4e94d22f9ce6d50d5
+    - name: Water Foam_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 55
         y: 43
         width: 81
         height: 89
-      spriteId: 33d68164c74282148b11ab1b94d374b8
-    - name: Frame_12
+      spriteId: 965d2d95f8428d64c89371b9ddcf4f8f
+    - name: Water Foam_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 52
         y: 43
         width: 85
         height: 90
-      spriteId: cbf1d1165fb47bc4badfa34b6b3dd668
-    - name: Frame_13
+      spriteId: 72bf6947b5c4157489b41e5bf9fc62e1
+    - name: Water Foam_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 52
         y: 45
         width: 86
         height: 88
-      spriteId: 56187c562a0244348a966a077c9338b9
-    - name: Frame_14
+      spriteId: 9e4526a38e6412e4bb3ea1ffcebd3da4
+    - name: Water Foam_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 54
         y: 47
         width: 84
         height: 86
-      spriteId: 90683510610d92f4391ae8e1206b934c
-    - name: Frame_15
+      spriteId: b39eae8faac5c564da305300bedf3e52
+    - name: Water Foam_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 53
         y: 48
         width: 85
         height: 86
-      spriteId: aeee0e1ce320bee489700389da72bc01
+      spriteId: 79e08a0d3e9754142bc175f8aa6af443
     linkedCells: []
-    tileCells: []
-    tileSetIndex: 0
     parentIndex: -1
-  tileSets: []
   platformSettings: []
-  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 192, y: 192}
-  previousTextureSize: {x: 512, y: 512}

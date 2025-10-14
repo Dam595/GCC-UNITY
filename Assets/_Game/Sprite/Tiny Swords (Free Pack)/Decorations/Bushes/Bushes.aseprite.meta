@@ -8,7 +8,6 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
-  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -78,14 +77,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   asepriteImporterSettings:
     fileImportMode: 1
     importHiddenLayers: 0
@@ -93,14 +89,11 @@ ScriptedImporter:
     defaultPivotSpace: 0
     defaultPivotAlignment: 7
     customPivotPosition: {x: 0.5, y: 0.5}
-    mosaicPadding: 4
     spritePadding: 0
     generateModelPrefab: 1
     generateAnimationClips: 1
     addSortingGroup: 1
     addShadowCasters: 0
-    generateIndividualEvents: 1
-    generateSpriteAtlas: 1
   importFileNodeState: 1
   platformSettingsDirtyTick: 0
   textureAssetName: 
@@ -110,7 +103,6 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -127,19 +119,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_0
+  - name: Bushes_Frame_0
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 435
       y: 4
       width: 67
       height: 46
-    spriteID: 1fc1b86c798c479409a4242f20a0a3da
+    spriteID: ec4ad093a3b62e4499a83fa2d8004a9b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,19 +139,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 435, y: 4}
-  - name: Frame_1
+  - name: Bushes_Frame_1
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 261
       y: 71
       width: 67
       height: 46
-    spriteID: 27d7c67c63453cb4da7aa0a20b83ca01
+    spriteID: 28fe3b39b43a0924d80306b16d4d1b04
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -169,19 +159,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 261, y: 71}
-  - name: Frame_2
+  - name: Bushes_Frame_2
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 336
       y: 71
       width: 67
       height: 46
-    spriteID: 2c1126664d853014e8b81280c3371e53
+    spriteID: f6b851fdda8c4254089c3ffa9020a48b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,19 +179,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 336, y: 71}
-  - name: Frame_3
+  - name: Bushes_Frame_3
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 411
       y: 71
       width: 67
       height: 46
-    spriteID: 7de089c770bfa53429449ef6e4dea917
+    spriteID: 54f882a0eb18fd447bfd9e409603f808
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -211,19 +199,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 411, y: 71}
-  - name: Frame_4
+  - name: Bushes_Frame_4
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 138
       width: 67
       height: 46
-    spriteID: 76ede7b438ccd324e8616f5902b251b7
+    spriteID: ba8d9cc85b6ae814f8fb7fe7450b6b07
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,19 +219,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 138}
-  - name: Frame_5
+  - name: Bushes_Frame_5
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 79
       y: 138
       width: 67
       height: 46
-    spriteID: 789d56b4100ef4241871c6a0dd950b9f
+    spriteID: 4ad9863a10acbd8459f24ce0bf68fc26
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -253,19 +239,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 79, y: 138}
-  - name: Frame_6
+  - name: Bushes_Frame_6
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 154
       y: 138
       width: 67
       height: 46
-    spriteID: f895e4768b0c0e04388a0fd0887f3067
+    spriteID: 227991906fdace845b77372666f58afa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -274,19 +259,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 154, y: 138}
-  - name: Frame_7
+  - name: Bushes_Frame_7
     originalName: 
     pivot: {x: 0.4925373, y: -1.0652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 229
       y: 138
       width: 67
       height: 46
-    spriteID: d2ffe6ce7eb934b44902da7407027224
+    spriteID: fa0795c90a73c0542b555f7542504b81
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -295,19 +279,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 229, y: 138}
-  - name: Frame_8
+  - name: Bushes_Frame_8
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 274
       y: 192
       width: 46
       height: 34
-    spriteID: 1b6d28a4405c96d4b8d0c48255d2d11e
+    spriteID: 445fe4eb9dbe0a244b79c473626b801e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -316,19 +299,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 274, y: 192}
-  - name: Frame_9
+  - name: Bushes_Frame_9
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 328
       y: 192
       width: 46
       height: 34
-    spriteID: c6565a8d338ee4944a12610e92920c48
+    spriteID: 5d9269d10dbecbe4298f0474d6a06b3f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -337,19 +319,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 328, y: 192}
-  - name: Frame_10
+  - name: Bushes_Frame_10
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 382
       y: 192
       width: 46
       height: 34
-    spriteID: 02877ab99d635994abf3f85d6e3ee63c
+    spriteID: 60120e8b5d8adc24ab4cf4a21a6229d7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -358,19 +339,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 382, y: 192}
-  - name: Frame_11
+  - name: Bushes_Frame_11
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 436
       y: 192
       width: 46
       height: 34
-    spriteID: 593115728aba82347bb97704ba9969f1
+    spriteID: 2cb804a984419e8408927de62860e4b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -379,19 +359,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 436, y: 192}
-  - name: Frame_12
+  - name: Bushes_Frame_12
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 242
       width: 46
       height: 34
-    spriteID: f733ab2c16ccf424885697302563b9d5
+    spriteID: 5eba85061babc95468ebdb994ef0958a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -400,19 +379,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 242}
-  - name: Frame_13
+  - name: Bushes_Frame_13
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 58
       y: 242
       width: 46
       height: 34
-    spriteID: b4d4e8401d0c74e4ca4241bb49260776
+    spriteID: e6620442f99175c49a491e283a7b6042
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,19 +399,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 58, y: 242}
-  - name: Frame_14
+  - name: Bushes_Frame_14
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 112
       y: 242
       width: 46
       height: 34
-    spriteID: e7842e442c46e2047993c5d3d2f3c542
+    spriteID: 69251d4e3b8b7d64dabe77ebd7dd91d4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -442,19 +419,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 242}
-  - name: Frame_15
+  - name: Bushes_Frame_15
     originalName: 
     pivot: {x: 0.5, y: -1.5294118}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 166
       y: 242
       width: 46
       height: 34
-    spriteID: ea5871f168bf0404dbda34057fb5332a
+    spriteID: fa04aced2eb67094a9a5631352ff4bcc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -463,19 +439,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 166, y: 242}
-  - name: Frame_16
+  - name: Bushes_Frame_16
     originalName: 
     pivot: {x: 0.525641, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 91
       y: 4
       width: 78
       height: 59
-    spriteID: 7826e8fc537707944855b425158da65c
+    spriteID: 5272c6eca1a20e340a7568c5a9c5f4a6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -484,19 +459,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 91, y: 4}
-  - name: Frame_17
+  - name: Bushes_Frame_17
     originalName: 
     pivot: {x: 0.525641, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 177
       y: 4
       width: 78
       height: 59
-    spriteID: 4a39a7c1c0d9fd14d9801634c12d934e
+    spriteID: 42aead7174b02d34b84d03ccad3ecaf8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -505,19 +479,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 177, y: 4}
-  - name: Frame_18
+  - name: Bushes_Frame_18
     originalName: 
     pivot: {x: 0.5194805, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 176
       y: 71
       width: 77
       height: 59
-    spriteID: ed97a30b1a703fb49a5e772c38a10f6e
+    spriteID: 14494595dbd0d7d4a822d5b7c69e3af4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -526,19 +499,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 176, y: 71}
-  - name: Frame_19
+  - name: Bushes_Frame_19
     originalName: 
     pivot: {x: 0.525641, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 263
       y: 4
       width: 78
       height: 59
-    spriteID: 28b7f0a86b341d54cbfe6daac730234c
+    spriteID: 20d95dfff0102d344b2f6a519dba48c0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -547,19 +519,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 263, y: 4}
-  - name: Frame_20
+  - name: Bushes_Frame_20
     originalName: 
     pivot: {x: 0.525641, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 349
       y: 4
       width: 78
       height: 59
-    spriteID: ae45603a0d78d644fa51b8f69d19a2f0
+    spriteID: a3a1f899bb962714592c267e220d3bb2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -568,19 +539,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 349, y: 4}
-  - name: Frame_21
+  - name: Bushes_Frame_21
     originalName: 
     pivot: {x: 0.51898736, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 4
       width: 79
       height: 59
-    spriteID: 3b70b99ce6074ca42a4ab19387413e3f
+    spriteID: 9eea1ce5c916a7241a67eac3b680c4a3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -589,19 +559,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_22
+  - name: Bushes_Frame_22
     originalName: 
     pivot: {x: 0.525641, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 71
       width: 78
       height: 59
-    spriteID: 334a81f3c82439043b6b211cedbb857d
+    spriteID: 786ab5b1317cd164ebebdf57988c6f2e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -610,19 +579,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 71}
-  - name: Frame_23
+  - name: Bushes_Frame_23
     originalName: 
     pivot: {x: 0.525641, y: -0.7457627}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 90
       y: 71
       width: 78
       height: 59
-    spriteID: eb73af38490ab2745aca76a2eb41eb40
+    spriteID: 5cc96b2425317944cba089bb6867adae
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -631,19 +599,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 90, y: 71}
-  - name: Frame_24
+  - name: Bushes_Frame_24
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 304
       y: 138
       width: 46
       height: 42
-    spriteID: 63d3ebd56f8aac74081619bb97e7fdbd
+    spriteID: 832acb8b7a74d8341aefde72e118a134
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -652,19 +619,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 304, y: 138}
-  - name: Frame_25
+  - name: Bushes_Frame_25
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 358
       y: 138
       width: 46
       height: 42
-    spriteID: 301941f334d6f7b4b99d49fd25ac02b1
+    spriteID: 775ed2c0c8f58194783e231665a6d6d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -673,19 +639,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 358, y: 138}
-  - name: Frame_26
+  - name: Bushes_Frame_26
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 412
       y: 138
       width: 46
       height: 42
-    spriteID: a5a009a3fd2a8b14391f8f9002f5a921
+    spriteID: 647d522435a1dfc4f8ef1a7c7fec84e4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -694,19 +659,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 412, y: 138}
-  - name: Frame_27
+  - name: Bushes_Frame_27
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 4
       y: 192
       width: 46
       height: 42
-    spriteID: babe2c872b300dc46a4db5841cb49c72
+    spriteID: b5eff320e2918424b80a23abf1fae793
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -715,19 +679,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 192}
-  - name: Frame_28
+  - name: Bushes_Frame_28
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 58
       y: 192
       width: 46
       height: 42
-    spriteID: 95d1b24516d1bee40baae4573cc454e1
+    spriteID: 80ffc2fb9bed5e642997c55ae581b8c3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -736,19 +699,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 58, y: 192}
-  - name: Frame_29
+  - name: Bushes_Frame_29
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 112
       y: 192
       width: 46
       height: 42
-    spriteID: 84fd13d46f140a447b26a9e12d5609d8
+    spriteID: 460ce50aa7e43994e884001f80afe552
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -757,19 +719,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 112, y: 192}
-  - name: Frame_30
+  - name: Bushes_Frame_30
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 166
       y: 192
       width: 46
       height: 42
-    spriteID: d4f9084dba0c7dc4ebfb814eac5e40cd
+    spriteID: 82f965b5218ad4841b5ddc96913046f6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -778,19 +739,18 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 166, y: 192}
-  - name: Frame_31
+  - name: Bushes_Frame_31
     originalName: 
     pivot: {x: 0.5217391, y: -1.1666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
     rect:
       serializedVersion: 2
       x: 220
       y: 192
       width: 46
       height: 42
-    spriteID: dc521a0eb4b789048a0abe71c576ed28
+    spriteID: 575091bbf3b12fb4fb3ac6c8f282a733
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -800,316 +760,273 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 220, y: 192}
   spriteSheetImportData: []
-  tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 831230056
-      value1: 0
-      value2: 0
-      value3: 0
-    guid: 0
+    guid: -714149560
     name: Bushes
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_0
+    - name: Bushes_Frame_0
       frameIndex: 0
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: 1fc1b86c798c479409a4242f20a0a3da
-    - name: Frame_1
+      spriteId: ec4ad093a3b62e4499a83fa2d8004a9b
+    - name: Bushes_Frame_1
       frameIndex: 1
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: 27d7c67c63453cb4da7aa0a20b83ca01
-    - name: Frame_2
+      spriteId: 28fe3b39b43a0924d80306b16d4d1b04
+    - name: Bushes_Frame_2
       frameIndex: 2
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: 2c1126664d853014e8b81280c3371e53
-    - name: Frame_3
+      spriteId: f6b851fdda8c4254089c3ffa9020a48b
+    - name: Bushes_Frame_3
       frameIndex: 3
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: 7de089c770bfa53429449ef6e4dea917
-    - name: Frame_4
+      spriteId: 54f882a0eb18fd447bfd9e409603f808
+    - name: Bushes_Frame_4
       frameIndex: 4
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: 76ede7b438ccd324e8616f5902b251b7
-    - name: Frame_5
+      spriteId: ba8d9cc85b6ae814f8fb7fe7450b6b07
+    - name: Bushes_Frame_5
       frameIndex: 5
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: 789d56b4100ef4241871c6a0dd950b9f
-    - name: Frame_6
+      spriteId: 4ad9863a10acbd8459f24ce0bf68fc26
+    - name: Bushes_Frame_6
       frameIndex: 6
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: f895e4768b0c0e04388a0fd0887f3067
-    - name: Frame_7
+      spriteId: 227991906fdace845b77372666f58afa
+    - name: Bushes_Frame_7
       frameIndex: 7
-      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 49
         width: 67
         height: 46
-      spriteId: d2ffe6ce7eb934b44902da7407027224
-    - name: Frame_8
+      spriteId: fa0795c90a73c0542b555f7542504b81
+    - name: Bushes_Frame_8
       frameIndex: 8
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: 1b6d28a4405c96d4b8d0c48255d2d11e
-    - name: Frame_9
+      spriteId: 445fe4eb9dbe0a244b79c473626b801e
+    - name: Bushes_Frame_9
       frameIndex: 9
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: c6565a8d338ee4944a12610e92920c48
-    - name: Frame_10
+      spriteId: 5d9269d10dbecbe4298f0474d6a06b3f
+    - name: Bushes_Frame_10
       frameIndex: 10
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: 02877ab99d635994abf3f85d6e3ee63c
-    - name: Frame_11
+      spriteId: 60120e8b5d8adc24ab4cf4a21a6229d7
+    - name: Bushes_Frame_11
       frameIndex: 11
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: 593115728aba82347bb97704ba9969f1
-    - name: Frame_12
+      spriteId: 2cb804a984419e8408927de62860e4b4
+    - name: Bushes_Frame_12
       frameIndex: 12
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: f733ab2c16ccf424885697302563b9d5
-    - name: Frame_13
+      spriteId: 5eba85061babc95468ebdb994ef0958a
+    - name: Bushes_Frame_13
       frameIndex: 13
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: b4d4e8401d0c74e4ca4241bb49260776
-    - name: Frame_14
+      spriteId: e6620442f99175c49a491e283a7b6042
+    - name: Bushes_Frame_14
       frameIndex: 14
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: e7842e442c46e2047993c5d3d2f3c542
-    - name: Frame_15
+      spriteId: 69251d4e3b8b7d64dabe77ebd7dd91d4
+    - name: Bushes_Frame_15
       frameIndex: 15
-      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 52
         width: 46
         height: 34
-      spriteId: ea5871f168bf0404dbda34057fb5332a
-    - name: Frame_16
+      spriteId: fa04aced2eb67094a9a5631352ff4bcc
+    - name: Bushes_Frame_16
       frameIndex: 16
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 44
         width: 78
         height: 59
-      spriteId: 7826e8fc537707944855b425158da65c
-    - name: Frame_17
+      spriteId: 5272c6eca1a20e340a7568c5a9c5f4a6
+    - name: Bushes_Frame_17
       frameIndex: 17
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 44
         width: 78
         height: 59
-      spriteId: 4a39a7c1c0d9fd14d9801634c12d934e
-    - name: Frame_18
+      spriteId: 42aead7174b02d34b84d03ccad3ecaf8
+    - name: Bushes_Frame_18
       frameIndex: 18
-      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 44
         width: 77
         height: 59
-      spriteId: ed97a30b1a703fb49a5e772c38a10f6e
-    - name: Frame_19
+      spriteId: 14494595dbd0d7d4a822d5b7c69e3af4
+    - name: Bushes_Frame_19
       frameIndex: 19
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 44
         width: 78
         height: 59
-      spriteId: 28b7f0a86b341d54cbfe6daac730234c
-    - name: Frame_20
+      spriteId: 20d95dfff0102d344b2f6a519dba48c0
+    - name: Bushes_Frame_20
       frameIndex: 20
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 44
         width: 78
         height: 59
-      spriteId: ae45603a0d78d644fa51b8f69d19a2f0
-    - name: Frame_21
+      spriteId: a3a1f899bb962714592c267e220d3bb2
+    - name: Bushes_Frame_21
       frameIndex: 21
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 44
         width: 79
         height: 59
-      spriteId: 3b70b99ce6074ca42a4ab19387413e3f
-    - name: Frame_22
+      spriteId: 9eea1ce5c916a7241a67eac3b680c4a3
+    - name: Bushes_Frame_22
       frameIndex: 22
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 44
         width: 78
         height: 59
-      spriteId: 334a81f3c82439043b6b211cedbb857d
-    - name: Frame_23
+      spriteId: 786ab5b1317cd164ebebdf57988c6f2e
+    - name: Bushes_Frame_23
       frameIndex: 23
-      additiveSortOrder: 0
       cellRect:
         x: 23
         y: 44
         width: 78
         height: 59
-      spriteId: eb73af38490ab2745aca76a2eb41eb40
-    - name: Frame_24
+      spriteId: 5cc96b2425317944cba089bb6867adae
+    - name: Bushes_Frame_24
       frameIndex: 24
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: 63d3ebd56f8aac74081619bb97e7fdbd
-    - name: Frame_25
+      spriteId: 832acb8b7a74d8341aefde72e118a134
+    - name: Bushes_Frame_25
       frameIndex: 25
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: 301941f334d6f7b4b99d49fd25ac02b1
-    - name: Frame_26
+      spriteId: 775ed2c0c8f58194783e231665a6d6d8
+    - name: Bushes_Frame_26
       frameIndex: 26
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: a5a009a3fd2a8b14391f8f9002f5a921
-    - name: Frame_27
+      spriteId: 647d522435a1dfc4f8ef1a7c7fec84e4
+    - name: Bushes_Frame_27
       frameIndex: 27
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: babe2c872b300dc46a4db5841cb49c72
-    - name: Frame_28
+      spriteId: b5eff320e2918424b80a23abf1fae793
+    - name: Bushes_Frame_28
       frameIndex: 28
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: 95d1b24516d1bee40baae4573cc454e1
-    - name: Frame_29
+      spriteId: 80ffc2fb9bed5e642997c55ae581b8c3
+    - name: Bushes_Frame_29
       frameIndex: 29
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: 84fd13d46f140a447b26a9e12d5609d8
-    - name: Frame_30
+      spriteId: 460ce50aa7e43994e884001f80afe552
+    - name: Bushes_Frame_30
       frameIndex: 30
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: d4f9084dba0c7dc4ebfb814eac5e40cd
-    - name: Frame_31
+      spriteId: 82f965b5218ad4841b5ddc96913046f6
+    - name: Bushes_Frame_31
       frameIndex: 31
-      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 49
         width: 46
         height: 42
-      spriteId: dc521a0eb4b789048a0abe71c576ed28
+      spriteId: 575091bbf3b12fb4fb3ac6c8f282a733
     linkedCells: []
-    tileCells: []
-    tileSetIndex: 0
     parentIndex: -1
-  tileSets: []
   platformSettings: []
-  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 128, y: 128}
-  previousTextureSize: {x: 512, y: 512}
