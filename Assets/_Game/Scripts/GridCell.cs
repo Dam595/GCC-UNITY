@@ -4,7 +4,7 @@ public class GridCell : MonoBehaviour
 {
     private SpriteRenderer sr;
     private Vector2Int gridPos;
-
+    public DragAbleObject occupiedObject;
     void Awake()
     {
         sr = GetComponent<SpriteRenderer>();
@@ -24,4 +24,19 @@ public class GridCell : MonoBehaviour
     {
         sr.color = Color.white;
     }
+    public bool IsEmpty()
+    {
+        return occupiedObject == null;
+    }
+
+    public void SetOccupied(DragAbleObject obj)
+    {
+        occupiedObject = obj;
+    }
+
+    public void ClearOccupied()
+    {
+        occupiedObject = null;
+    }
+
 }
