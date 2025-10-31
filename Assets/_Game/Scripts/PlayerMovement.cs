@@ -1,17 +1,22 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("Movement")]
     public float moveSpeed = 5f;
 
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Vector2 lastMoveDir;
     private Animator animator;
+    private Coroutine speedBoostCoroutine;
 
+    [Header("Speed Boost Settings")]
+    [SerializeField] private float speedMultiplier = 1.5f;
+    [SerializeField] private float duration = 3f;
 
-    [SerializeField] private float knockbackForce = 5f;
-    [SerializeField] private float shockwaveCastRange = 3f;
+    private bool isPaused = false;
 
     void Awake()
     {
@@ -19,34 +24,38 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    void Update()
+    void OnEnable()
     {
-        MovementHandler();
-        AnimationHandler();
-        if (Input.GetKeyDown(KeyCode.P))
-        {
-            DoPushWave();
-        }
+        GamePauseManager.OnPaused += HandlePause;
+        GamePauseManager.OnResumed += HandleResume;
     }
 
-    /// <summary>
-    /// Code quản lý di chuyển của nhân vật người chơi
-    /// </summary>
+    void OnDisable()
+    {
+        GamePauseManager.OnPaused -= HandlePause;
+        GamePauseManager.OnResumed -= HandleResume;
+    }
+
+    void Update()
+    {
+        if (isPaused) return;
+
+        MovementHandler();
+        AnimationHandler();
+    }
+
     private void MovementHandler()
     {
         moveInput.x = Input.GetAxisRaw("Horizontal");
         moveInput.y = Input.GetAxisRaw("Vertical");
         moveInput.Normalize();
+
         rb.velocity = moveInput * moveSpeed;
+
         if (moveInput.sqrMagnitude > 0.01f)
-        {
             lastMoveDir = moveInput;
-        }
     }
 
-    /// <summary>
-    /// Code quản lý Animation của nhân vật người chơi
-    /// </summary>
     private void AnimationHandler()
     {
         float speed = rb.velocity.magnitude;
@@ -57,38 +66,42 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("LastMoveY", lastMoveDir.y);
     }
 
-    /// <summary>
-    /// Push wave đẩy lùi các đối tượng xung quanh trong phạm vi shockwaveCastRange
-    /// </summary>
-    private void DoPushWave()
+    public void ApplySpeedBoost()
     {
-        int layerMask = LayerMask.GetMask("NPC");
-        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, shockwaveCastRange, layerMask);
+        if (speedBoostCoroutine != null)
+            StopCoroutine(speedBoostCoroutine);
 
-        foreach (var hit in hits)
+        speedBoostCoroutine = StartCoroutine(SpeedBoost(speedMultiplier, duration));
+    }
+
+    private IEnumerator SpeedBoost(float multiplier, float duration)
+    {
+        moveSpeed *= multiplier;
+        float elapsed = 0f;
+
+        while (elapsed < duration)
         {
-            ApplyKnockback(hit.transform);
+            if (!GamePauseManager.IsPaused)
+                elapsed += Time.deltaTime;
+
+            yield return null;
         }
+
+        moveSpeed /= multiplier;
+        speedBoostCoroutine = null;
     }
 
 
-    /// <summary>
-    /// Applies a knockback force to the specified target.
-    /// </summary>
-    private void ApplyKnockback(Transform target)
+    private void HandlePause()
     {
-        Rigidbody2D rb2d = target.GetComponent<Rigidbody2D>();
-        if (rb2d != null && rb2d != this.rb)
-        {
-            Vector2 dir = (target.position - transform.position).normalized;
-            rb2d.AddForce(dir * knockbackForce, ForceMode2D.Impulse);
-        }
+        isPaused = true;
+        rb.velocity = Vector2.zero;
+        animator.speed = 0f;
     }
 
-    private void OnDrawGizmos()
+    private void HandleResume()
     {
-        Gizmos.color = Random.ColorHSV();
-        Gizmos.DrawWireSphere(transform.position, shockwaveCastRange);
+        isPaused = false;
+        animator.speed = 1f;
     }
-
 }
